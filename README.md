@@ -2,7 +2,9 @@
 
 This is the implementation of the DIRECT model from paper "[Adjacency List Oriented Relational Fact Extraction via Adaptive Multi-task Learning](https://arxiv.org/abs/2106.01559)". 
 
-![](imgs/1.jpg)
+![Examples of Different Representations of graph](imgs/1.png)
+
+![Model Framework](imgs/2.png)
 
 ## Requirements
 - botocore==1.19.23
