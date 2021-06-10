@@ -28,9 +28,10 @@ This is the implementation of the DIRECT model from paper "[Adjacency List Orien
 ## Cite the paper
 
 ```
-@inproceedings{Zhao2021AdjacencyLO,
+@inproceedings{zhao2021adjacency,
   title={Adjacency List Oriented Relational Fact Extraction via Adaptive Multi-task Learning},
-  author={Fubang Zhao and Zhuoren Jiang and Yangyang Kang and Changlong Sun and Xiaozhong Liu},
+  author={Zhao, Fubang and Jiang, Zhuoren and Kang, Yangyang and Sun, Changlong and Liu, Xiaozhong},
+  booktitle={ACL-IJCNLP 2021 Findings},
   year={2021}
 }
 ```
